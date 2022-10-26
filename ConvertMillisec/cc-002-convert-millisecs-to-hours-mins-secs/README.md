@@ -1,4 +1,4 @@
-# Coding Challenge - 002 : Convert Milliseconds into Hours, Minutes, and Seconds
+# Coding Challenge - Convert Milliseconds into Hours, Minutes, and Seconds
 
 Purpose of the this coding challenge is to write program that converts the given milliseconds into hours, minutes, and seconds.
 
